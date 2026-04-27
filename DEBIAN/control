@@ -1,0 +1,8 @@
+Package: my-awesome-app
+Version: 0.0.1
+Section: custom
+Priority: optional
+Architecture: amd64
+Maintainer: Zach Warner <zw.noreply@gmail.com>
+Description: A brief description of what your app does.
+Depends: python3, curl  # List any dependencies here
